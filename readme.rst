@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Baca dulu
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
@@ -67,4 +67,4 @@ Acknowledgement
 ***************
 
 The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+contributors to the CodeIgniter project and you, the CodeIgniter user. 
